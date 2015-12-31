@@ -1,0 +1,49 @@
+Major insights from primary analysis of the data sets
+	
+1. crunchbase-acquired
+
+	-> Bay area comes out as the favorite destination for the acquirers. 
+	-> Software comes out as the favorite market for companies as well as acquirers
+	-> In 9 percent of the cases startups and acquirers are from the same region, and in 
+	   15 percent of the cases they are from the same market. 
+	-> Motorola,Yahoo,eBay are among the top acquirers with each acquiring 2 startups. 
+	
+	Further questions:
+		-> Market of the companies which were being acquired by these top companies. 
+		-> Different types of market being targeted 
+		-> Characteristics of the startups which have been acquired. 
+
+
+2. crunchbase-investment
+	This data set throws up a lot of interesting results. 
+	
+	-> Atlanta and Boston come out to be the favorite destination of investors with 24 and 18
+	   startups from these regions bagging investments followed by bay area with 9 companies 
+	   bagging investments. 
+
+	-> 18 startups which have bagged investments are in the same city as investors, 34 are in 
+	   the same region and 42 are in the same state as the investor. 
+
+	-> Amongst the investor areas, boston tops the chart by making investments in 48 startups. 
+	
+	-> What is more surprising is the fact that all 48 investments have been made by a sinngle 
+           group .406 Ventures. 
+
+	-> Further analysis of the investments made by the group reveals that it has investments 
+	   in a broad area of markets with security market being at the top with 7 investments. 
+
+	-> Another interesting fact is that market type of .406 Ventures is not listed. 
+
+	-> Another interesting trend is that a lot of investment have been made by companies from the 
+           finance sector but none of them in the same market. 
+
+	-> While the software and the curated web remain the top destination for investment
+
+This data set throws up a bunch of interesting facts for investigation. If the data set is to be believed then bay area is no more the top destination for the investors. A lot of investment has been made in Atlanta which might have been due to some ease in policy by the state but interestngly enough a large no of companies are from boston. 
+
+Although market of the startups from boston remain to be investigated it is highly likely that majority of these belong to 
+software or technical industry. If the trend is an indicator it seems that boston is becoming a new tech hub. Also one investor .406 Ventures is driving a lot of investment. Details of the company are not available but it seems like a powerful group of companies which can decide the future direction of technical market. 
+
+The second group 10Xelerator also has 20 investments and combined they have invested in 68 out of the 100 startups which is alarming. 
+
+A lot of investors are from the finance space but interestingly none of the funded startups are from finance which increases the question of proftability in finance as well as sustainance of the fintech space. 
